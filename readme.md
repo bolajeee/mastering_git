@@ -1,3 +1,3 @@
 ## Hello Git!!!
 
-adding features to the alternate branch
+adding an alternative branch
